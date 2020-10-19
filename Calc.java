@@ -6,6 +6,7 @@ return a+b;
 }
 public static void main(String[] args)
 {
-add(10,20);
+  int k=add(10,20);
+  System.out.println(k);
 }
 }
